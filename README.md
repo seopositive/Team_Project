@@ -1,7 +1,7 @@
 # Team_Project
 
 
-<div alian=center>
+<div align="center">
 
 #회원가입
 
