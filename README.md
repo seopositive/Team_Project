@@ -1,7 +1,7 @@
 # Team_Project
 
 
-
+<div alian=center>
 
 #회원가입
 
@@ -10,3 +10,4 @@
 #게시판 등록 / 수정 / 삭제/ 답글
 
 
+</div>
