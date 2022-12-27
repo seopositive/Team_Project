@@ -6,7 +6,7 @@
 #회원가입 / 로그인
 
 
-![회원가입  로그인](https://user-images.githubusercontent.com/121269677/209650223-41beb563-ad81-488f-9bc2-0780c5ce08d2.gif)
+![회원가입](https://user-images.githubusercontent.com/121269677/209651284-9a722c41-e1e6-40cc-aa6f-5ee3d69939dc.gif)
 
 
 #게시판 등록 / 수정 / 삭제/ 답글
@@ -17,7 +17,7 @@
 #회원탈퇴
 
 
-![회원탈퇴](https://user-images.githubusercontent.com/121269677/209650255-3ba2aa57-ded9-4702-94b2-646eee855b88.gif)
+![회원탈퇴11](https://user-images.githubusercontent.com/121269677/209651001-9c215535-5864-4103-b2a6-e3efaeb68bfc.gif)
 
 
 </div>
